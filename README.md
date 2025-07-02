@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello! 👋  
+My name is Nastya. I am a beginner Frontend developer from Russia.  
+I am learning HTML, CSS, and JavaScript.  
+I want to grow my skills and work in IT in Japan 🇯🇵.  
 
-<!--
-**Nastya-svant-is/Nastya-svant-is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills and interests  
+- HTML, CSS, JavaScript (learning)  
+- React (starting)  
+- UI/UX design and visual interfaces  
+- English (B1), Japanese (beginner) — studying every day!  
 
-Here are some ideas to get you started:
+## My projects  
+- Currently learning and working on my first projects.  
+- Soon I will share my To-Do app and personal website here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts  
+- Instagram: [@svant.is](https://instagram.com/svant.is)  
+- Email: sigaraketomyra@gmail.com
